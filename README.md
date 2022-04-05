@@ -19,6 +19,10 @@ Keywords: ASME, CAD, USB, webcam, design, sketch
 Webcam that was designed (design is based on an actual webcam that I own):
 
 
+![Assembled v48](https://user-images.githubusercontent.com/83047251/161790387-e3e06768-f1c9-4894-b95b-c4935e4c9e92.png)
+
+
+
 
 ![Exploded+Parts](https://user-images.githubusercontent.com/83047251/161789333-d936d1ad-fc02-4bcb-a39e-1ffa18ad2736.jpg)
 
