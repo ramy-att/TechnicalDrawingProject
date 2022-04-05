@@ -24,4 +24,4 @@ Webcam that was designed (design is based on an actual webcam that I own):
 
 
 
-Full documentation available [here](Documenation.pdf)
+Full documentation available [here](Documentation.pdf)
